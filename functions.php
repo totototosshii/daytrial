@@ -223,9 +223,3 @@ function hljs_shortcode( $atts, $content = '' ) {
 	return '<pre><code class="' . $atts['lang'] . '">' . $content . '</code></pre>';
 }
 add_shortcode( 'hljs', 'hljs_shortcode' );
-
-//こういう使い方もある↓
-//functions.php(ボックスを装飾)
-function box_func( $atts, $content = null ) {
-return '<div class="red-box" style="background-color: green">' . $content . '</div>';}
-add_shortcode('red-box', 'box_func');
