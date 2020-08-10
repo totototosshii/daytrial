@@ -42,7 +42,7 @@ function my_script_init() {
 	// rainbow.css の読み込み.
 	wp_enqueue_style( 'highlight', get_template_directory_uri() . '/css/rainbow.css', array(), '9.15.8', 'all' );
 	// CSS の読み込み.
-	wp_enqueue_style( 'my', get_template_directory_uri() . '/css/style.css', array(), '1.0.0', 'all' );
+	wp_enqueue_style( 'my', get_template_directory_uri() . '/css/style.css', array(), '1.0.1', 'all' );
 	// highlight.pack.js の読み込み.
 	wp_enqueue_script( 'highlight', get_template_directory_uri() . '/js/highlight.pack.js', array( 'jquery' ), '9.15.8', true );
 	// sns.jsを追記.
