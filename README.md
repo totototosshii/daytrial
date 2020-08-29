@@ -13,4 +13,15 @@ HTMLファイルをPHPに書き換えるところから始め、完成後は配�
 ### 使用言語
 HTML / CSS / jQuery / PHP
 
+### 使用プラグイン
+・「All-in-One WP Migration」<br>
+・「Breadcrumb NavXT」<br>
+・「Contact Form 7」<br>
+・「Recent Posts Widget Extended」<br>
+・「Show Current Template」<br>
+・「Table of Contents Plus」<br>
+・「WordPress Popular Posts」<br>
+・「WP Multibyte Patch」<br>
+・「Yoast Duplicate Post」
+
 ### [→実際のサイト](https://30daytrial.tosshii-portfolio.com/)
