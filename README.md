@@ -17,6 +17,7 @@ HTML / CSS / jQuery / PHP
 ・「All-in-One WP Migration」<br>
 ・「Breadcrumb NavXT」<br>
 ・「Contact Form 7」<br>
+・「Edit Author Slug」<br>
 ・「Recent Posts Widget Extended」<br>
 ・「Show Current Template」<br>
 ・「Table of Contents Plus」<br>
