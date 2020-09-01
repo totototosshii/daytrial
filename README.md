@@ -14,15 +14,15 @@ HTMLファイルをPHPに書き換えるところから始め、完成後は配�
 HTML / CSS / jQuery / PHP
 
 ### 使用プラグイン
-・「All-in-One WP Migration」<br>
-・「Breadcrumb NavXT」<br>
-・「Contact Form 7」<br>
-・「Edit Author Slug」<br>
-・「Recent Posts Widget Extended」<br>
-・「Show Current Template」<br>
-・「Table of Contents Plus」<br>
-・「WordPress Popular Posts」<br>
-・「WP Multibyte Patch」<br>
-・「Yoast Duplicate Post」
+・「[All-in-One WP Migration](https://servmask.com/)」<br>
+・「[Breadcrumb NavXT](https://mtekk.us/code/breadcrumb-navxt/)」<br>
+・「[Contact Form 7](https://contactform7.com/)」<br>
+・「[Edit Author Slug](https://ja.wordpress.org/plugins/edit-author-slug/)」<br>
+・「[Recent Posts Widget Extended](https://www.theme-junkie.com/plugins/recent-posts-widget-extended/)」<br>
+・「[Show Current Template](https://ja.wordpress.org/plugins/show-current-template/)」<br>
+・「[Table of Contents Plus](https://ja.wordpress.org/plugins/table-of-contents-plus/)」<br>
+・「[WordPress Popular Posts](https://ja.wordpress.org/plugins/wordpress-popular-posts/)」<br>
+・「[WP Multibyte Patch](https://ja.wordpress.org/plugins/wp-multibyte-patch/)」<br>
+・「[Yoast Duplicate Post](https://yoast.com/wordpress/plugins/duplicate-post/)」
 
 ### [→実際のサイト](https://30daytrial.tosshii-portfolio.com/)
